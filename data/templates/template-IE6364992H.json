@@ -1,0 +1,133 @@
+{
+  "id": "IE6364992H",
+  "is_global": false,
+  "regions": [
+    {
+      "page": "0",
+      "type": "R1",
+      "doc_pages": "all",
+      "yMin": 141,
+      "yMax": 912,
+      "cols": [
+        {
+          "xMin": 1539,
+          "xMax": 1950
+        },
+        {
+          "xMin": 1951,
+          "xMax": 2364
+        }
+      ]
+    },
+    {
+      "page": "0",
+      "type": "R1",
+      "doc_pages": "all",
+      "yMin": 2334,
+      "yMax": 2976,
+      "cols": [
+        {
+          "xMin": 1536,
+          "xMax": 2025
+        },
+        {
+          "xMin": 2026,
+          "xMax": 2388
+        }
+      ]
+    },
+    {
+      "page": "0",
+      "type": "R2",
+      "doc_pages": "all",
+      "yMin": 1011,
+      "yMax": 1155,
+      "cols": [
+        {
+          "xMin": 117,
+          "xMax": 612
+        },
+        {
+          "xMin": 613,
+          "xMax": 1387
+        }
+      ]
+    },
+    {
+      "page": "0",
+      "type": "T2",
+      "doc_pages": "all",
+      "yMin": 1152,
+      "yMax": 1965,
+      "cols": [
+        {
+          "xMin": 129,
+          "xMax": 1095
+        },
+        {
+          "xMin": 1097,
+          "xMax": 1355
+        },
+        {
+          "xMin": 1357,
+          "xMax": 1603
+        },
+        {
+          "xMin": 1604,
+          "xMax": 1819
+        },
+        {
+          "xMin": 1820,
+          "xMax": 2058
+        },
+        {
+          "xMin": 2059,
+          "xMax": 2338
+        }
+      ]
+    },
+    {
+      "page": "0",
+      "type": "R2",
+      "doc_pages": "all",
+      "yMin": 2691,
+      "yMax": 2829,
+      "cols": [
+        {
+          "xMin": 128,
+          "xMax": 418
+        },
+        {
+          "xMin": 419,
+          "xMax": 707
+        }
+      ]
+    },
+    {
+      "page": "0",
+      "type": "R3",
+      "doc_pages": "all",
+      "yMin": 178,
+      "yMax": 530,
+      "cols": [
+        {
+          "xMin": 432,
+          "xMax": 972
+        }
+      ]
+    },
+    {
+      "page": "0",
+      "type": "R3",
+      "doc_pages": "all",
+      "yMin": 540,
+      "yMax": 573,
+      "cols": [
+        {
+          "xMin": 143,
+          "xMax": 517
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "B15035801",
+  "is_global": false,
+  "regions": [
+    {
+      "page": ":",
+      "type": "T1",
+      "doc_pages": "all",
+      "yMin": 837,
+      "yMax": 2123,
+      "cols": [
+        {
+          "xMin": 0,
+          "xMax": 134
+        },
+        {
+          "xMin": 136,
+          "xMax": 764
+        },
+        {
+          "xMin": 766,
+          "xMax": 899
+        },
+        {
+          "xMin": 902,
+          "xMax": 1010
+        },
+        {
+          "xMin": 1012,
+          "xMax": 1156
+        },
+        {
+          "xMin": 1158,
+          "xMax": 1318
+        },
+        {
+          "xMin": 1320,
+          "xMax": 1534
+        },
+        {
+          "xMin": 1537,
+          "xMax": 1640
+        },
+        {
+          "xMin": 1642,
+          "xMax": 1764
+        },
+        {
+          "xMin": 1767,
+          "xMax": 1967
+        },
+        {
+          "xMin": 1970,
+          "xMax": 2115
+        },
+        {
+          "xMin": 2118,
+          "xMax": 2348
+        }
+      ]
+    }
+  ]
+}

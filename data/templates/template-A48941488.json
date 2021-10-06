@@ -1,0 +1,124 @@
+{
+  "id": "A48941488",
+  "is_global": false,
+  "regions": [
+    {
+      "page": "0",
+      "type": "R2",
+      "doc_pages": "all",
+      "yMin": 1112,
+      "yMax": 1278,
+      "cols": [
+        {
+          "xMin": 144,
+          "xMax": 429
+        },
+        {
+          "xMin": 431,
+          "xMax": 711
+        },
+        {
+          "xMin": 712,
+          "xMax": 1093
+        },
+        {
+          "xMin": 1094,
+          "xMax": 1464
+        },
+        {
+          "xMin": 1465,
+          "xMax": 1878
+        }
+      ]
+    },
+    {
+      "page": "0",
+      "type": "T1",
+      "doc_pages": "all",
+      "yMin": 1281,
+      "yMax": 2524,
+      "cols": [
+        {
+          "xMin": 76,
+          "xMax": 546
+        },
+        {
+          "xMin": 860,
+          "xMax": 1906
+        },
+        {
+          "xMin": 2000,
+          "xMax": 2388
+        }
+      ]
+    },
+    {
+      "page": "0",
+      "type": "R3",
+      "doc_pages": "all",
+      "yMin": 2523,
+      "yMax": 2848,
+      "cols": [
+        {
+          "xMin": 147,
+          "xMax": 774
+        }
+      ]
+    },
+    {
+      "page": "0",
+      "type": "R2",
+      "doc_pages": "all",
+      "yMin": 2538,
+      "yMax": 2686,
+      "cols": [
+        {
+          "xMin": 780,
+          "xMax": 1072
+        },
+        {
+          "xMin": 1073,
+          "xMax": 1374
+        },
+        {
+          "xMin": 1375,
+          "xMax": 1675
+        },
+        {
+          "xMin": 1676,
+          "xMax": 2007
+        },
+        {
+          "xMin": 2008,
+          "xMax": 2357
+        }
+      ]
+    },
+    {
+      "page": "0",
+      "type": "R3",
+      "doc_pages": "all",
+      "yMin": 2688,
+      "yMax": 2832,
+      "cols": [
+        {
+          "xMin": 777,
+          "xMax": 2356
+        }
+      ]
+    },
+    {
+      "page": "0",
+      "type": "R3",
+      "doc_pages": "all",
+      "yMin": 3340,
+      "yMax": 3450,
+      "cols": [
+        {
+          "xMin": 148,
+          "xMax": 2110
+        }
+      ]
+    }
+  ]
+}
